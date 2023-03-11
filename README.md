@@ -1,6 +1,6 @@
 # Cobra
 
-Cobra is a simple 2D C++ engine made by a 13 year old kid
+Cobra is a simple 2D C++ engine made by a 13 year old kid\n
 
 # How to Build it
 ## 1- Windows
