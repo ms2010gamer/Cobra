@@ -10,8 +10,7 @@ Then in an empty directory, open the terminal and type this:
 git clone https://github.com/ms2010gamer/Cobra
 cd Cobra
 ```
-Now, also make sure you have [Python 3](https://www.python.org/downloads/release/python-3109/) installed properly!
-And type:
+Now, also make sure you have [Python 3](https://www.python.org/downloads/release/python-3109/) installed properly and type:
 ```
 python cli.py gensln
 ```
