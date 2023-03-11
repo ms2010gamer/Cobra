@@ -10,7 +10,11 @@ import subprocess
 TOOLS_DIR = "tools"
 
 def RunCommand(cmd):
-    subprocess.call(["python3", f"{os.curdir}/{TOOLS_DIR}/{cmd}.py"])
+    script = f"{os.curdir}/{TOOLS_DIR}/{cmd}.py"
+    if os.path.exists(script):
+        subprocess.call(["python3", ])
+    else:
+        print("Invalid command: ", cmd)
 
 for i in range(1, len(sys.argv)):
     cmd = sys.argv[1]
