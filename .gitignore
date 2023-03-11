@@ -1,0 +1,6 @@
+cobraeditor/bin
+cobraeditor/obj
+cobraeditor/Makefile
+
+Makefile
+tools/__pycache__
