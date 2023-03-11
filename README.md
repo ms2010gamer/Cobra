@@ -33,3 +33,8 @@ sudo apt install python3 make git
 ```
 sudo pacman -Sy python3 make git
 ```
+**Fedora based distro:**
+```
+sudo dnf search python3 make git
+sudo dnf install python3 make git
+```
