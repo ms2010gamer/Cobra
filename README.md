@@ -21,3 +21,16 @@ Now, run this:
 python cli.py buildsln
 ```
 If that runs without any errors, run the program in Visual Studio 2022!
+
+## 2- Linux
+First, we need to install the requirements, to do that:
+
+**Debian based distro:**
+```
+sudo apt update
+sudo apt install python3 make git
+```
+**Arch based distro:**
+```
+sudo pacman -Sy python3 make git
+```
