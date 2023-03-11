@@ -1,17 +1,17 @@
 # Cobra
 
-Cobra is a simple 2D C++ engine made by a 13 year old kid\n
+Cobra is a simple 2D C++ engine made by a 13 year old kid.
 
 # How to Build it
 ## 1- Windows
 First, make sure you have [Git](https://git-scm.com/downloads) installed!
-then in an empty directory, open the terminal and type this:
+Then in an empty directory, open the terminal and type this:
 ```
 git clone https://github.com/ms2010gamer/Cobra
 cd Cobra
 ```
 Now, also make sure you have [Python 3](https://www.python.org/downloads/release/python-3109/) installed properly!
-and type:
+And type:
 ```
 python cli.py gensln
 ```
